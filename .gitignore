@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+Pakete/
+.flet/
+dist/
+flatpak-app/
+flatpak-repo/
+flatpak-state/

@@ -1,0 +1,17 @@
+[project]
+name = "netzwerkspeed"
+version = "0.1.0"
+description = "Netzwerk-Speed: Geschwindigkeits-Umrechner und Wissen für Heimnetzwerke (Dark Mode)."
+requires-python = ">=3.10"
+dependencies = ["flet==1.0.4"]
+license = { text = "GPL-3.0-only" }
+authors = [{ name = "tth737" }]
+
+[project.urls]
+homepage = "https://github.com/tth737/Network-Calulator"
+
+[tool.flet]
+org = "org.tth737"
+product = "Netzwerk-Speed"
+company = "tth737"
+copyright = "Copyright (C) 2026 tth737"

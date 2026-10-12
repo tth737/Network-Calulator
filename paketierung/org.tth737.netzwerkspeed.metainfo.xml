@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.tth737.netzwerkspeed</id>
+  <name>Netzwerk-Speed</name>
+  <summary>Geschwindigkeits-Umrechner und Wissen fuer Heimnetzwerke</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+
+  <description>
+    <p>
+      Netzwerk-Speed rechnet Netzwerk- und Datengeschwindigkeiten um
+      (bit/s, kbit/s, Mbit/s, Gbit/s sowie B/s bis GB/s) und zeigt, was im
+      Heimnetz real ankommt. Dazu gibt es eine kleine Wissensdatenbank rund um
+      Bit &amp; Byte, Ethernet, WLAN und Netzwerkkabel.
+    </p>
+    <p>Funktionen:</p>
+    <ul>
+      <li>Umrechnung zwischen Bit- und Byte-Einheiten in alle gaengigen Schreibweisen</li>
+      <li>Praxiswert "Was real ankommt" mit ca. 6 % Overhead-Abschlag</li>
+      <li>Wissensdatenbank mit Suchfunktion (4 Kategorien)</li>
+      <li>Dunkles Design</li>
+    </ul>
+  </description>
+
+  <launchable type="desktop-id">org.tth737.netzwerkspeed.desktop</launchable>
+
+  <developer id="org.tth737">
+    <name>tth737</name>
+  </developer>
+
+  <url type="homepage">https://github.com/tth737/Network-Calulator</url>
+
+  <categories>
+    <category>Utility</category>
+    <category>Network</category>
+  </categories>
+
+  <content_rating type="oars-1.1"/>
+
+  <releases>
+    <release version="0.1.0" date="2026-10-11"/>
+  </releases>
+</component>
