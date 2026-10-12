@@ -1,0 +1,22 @@
+name: Funktionswunsch
+description: Schlage eine neue Funktion vor
+title: "[Wunsch] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Welches Problem soll die Funktion lösen?
+    validations:
+      required: true
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Vorschlag
+    validations:
+      required: true
+  - type: textarea
+    id: alternativen
+    attributes:
+      label: Alternativen
