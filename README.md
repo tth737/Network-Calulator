@@ -1,5 +1,8 @@
 # Netzwerk-Speed
 
+> **Hinweis: Dieses Projekt wurde mit KI-Unterstützung erstellt (Vibe Coding).**
+> Der Code und die Texte wurden überwiegend von KI erzeugt.
+
 Eine kleine App zum Umrechnen von Netzwerk- und Datengeschwindigkeiten, mit
 einer kurzen Wissensdatenbank rund um Heimnetzwerke. Geschrieben mit Flet
 (Python). Es gibt Pakete für Linux (Flatpak) und Android (APK).
