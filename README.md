@@ -2,7 +2,7 @@
 
 Eine kleine App zum Umrechnen von Netzwerk- und Datengeschwindigkeiten, mit
 einer kurzen Wissensdatenbank rund um Heimnetzwerke. Geschrieben mit Flet
-(Python), nur Dunkelmodus. Es gibt Pakete für Linux (Flatpak) und Android (APK).
+(Python). Es gibt Pakete für Linux (Flatpak) und Android (APK).
 
 ## Funktionen
 
@@ -63,16 +63,15 @@ ausgelegt. Einzelheiten stehen als Kommentar am Anfang der Skripte.
     assets/icon.png        App-Icon
     paketierung/           Flatpak-Manifest, Metainfo und Build-Skripte
 
-## Hinweis zur Erstellung
-
-Dieses Projekt wurde mit Unterstützung von KI erstellt. Code, Texte und
-Konfiguration wurden von KI vorgeschlagen und vom Autor geprüft und
-verantwortet.
-
 ## Mitwirkende
 
-- tth737: Idee, Inhalt, Prüfung
-- KI-Unterstützung: opencode
+- tth737
+
+## Haftungsausschluss
+
+Die Nutzung der App und aller enthaltenen Texte erfolgt auf eigene Gefahr. Es
+wird keine Haftung für Schäden, Fehler oder daraus folgende Nachteile
+übernommen.
 
 ## Lizenz
 
